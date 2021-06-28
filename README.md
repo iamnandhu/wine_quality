@@ -15,8 +15,8 @@ In `wine_project.ipynb` , we will download the datasets using python.
   - [matplotlib](http://matplotlib.org/)
   - [scikit-learn](http://scikit-learn.org/stable/)
   - [matplotlib](http://matplotlib.org/)
-  You will also need to have software installed to run and execute a [Jupyter Notebook](http://jupyter.org/install.html).
-
+  
+  This project was done in Google Colaboratory.You can also use [Jupyter Notebook](http://jupyter.org/install.html).
   If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](https://www.anaconda.com/download/) distribution of Python, which already has     the above packages and more included. 
 
 
