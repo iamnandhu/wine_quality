@@ -3,13 +3,10 @@
 # Data:
 
 There are two datasets related to red and white variants of the Portuguese "Vinho Verde" wine.
-In this project we only use red wine dataset.
-   
+In this project we only use red wine dataset.   
 Datasets are available at: [UCI ML repository](https://archive.ics.uci.edu/ml/index.php/) and [Paulo Cortez's web page](http://www3.dsi.uminho.pt/pcortez/wine/).
-    
-# Relevant paper:
-    [1] P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier,     47(4):547-553, 2009. Available here.
-    
+In `wine_project.ipynb` , we will download the datasets using python.
+   
 # Libraries 
   This project requires **Python** and the following Python libraries installed:
     
@@ -17,7 +14,7 @@ Datasets are available at: [UCI ML repository](https://archive.ics.uci.edu/ml/in
   - [Pandas](http://pandas.pydata.org/)
   - [matplotlib](http://matplotlib.org/)
   - [scikit-learn](http://scikit-learn.org/stable/)
-
+  - [matplotlib](http://matplotlib.org/)
   You will also need to have software installed to run and execute a [Jupyter Notebook](http://jupyter.org/install.html).
 
   If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](https://www.anaconda.com/download/) distribution of Python, which already has     the above packages and more included. 
